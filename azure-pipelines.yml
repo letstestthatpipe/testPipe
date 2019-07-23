@@ -29,4 +29,4 @@ steps:
      --detect.report.timeout=36000 --blackduck.timeout=36000 \
      --detect.yarn.prod.only=true --detect.npm.include.dev.dependencies=false \
      --detect.notices.report=true 
-  displayName: 'Foss license scan'
+     displayName: 'Foss license scan'
