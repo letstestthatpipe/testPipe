@@ -1,4 +1,4 @@
-name: Black Duck scan
+name: Unit Test
 on: [push]
 
 jobs:
